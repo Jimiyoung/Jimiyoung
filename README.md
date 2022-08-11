@@ -80,4 +80,5 @@ Here are some ideas to get you started:
 <p><a href="http://www.naver.com">네이버</a></p>
 <p><a href="http://www.daum.net">다음</a></p>
 <p><a href="http://www.daum.net"><img src="http://192.168.50.133:9090/javagreenS_jmy/images/logo.gif/"></a></p>
-<img src="https://img.shields.io/badge/길동-000000?style=badge&logo=&logoColor=4285F4"/>
+<img src="http://49.142.157.251:9090/javagreenS_lsp/rts_shop/rts_product/220804163300_f_3.jpg">
+<img src="https://img.shields.io/badge/길동-000000?style=badge&logo=Google Photos&logoColor=4285F4"/>
