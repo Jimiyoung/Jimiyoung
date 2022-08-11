@@ -73,3 +73,10 @@ Here are some ideas to get you started:
   <li>바나나</li>
   <li>파인애플</li>
 </ol>
+
+<hr/>
+
+<h2>어디로 갈까요?</h2>
+<p><a href="http://www.naver.com">네이버</a></p>
+<p><a href="http://www.daum.net">다음</a></p>
+<p><a href="http://blog.daum.net/cj">네이버</a></p>
