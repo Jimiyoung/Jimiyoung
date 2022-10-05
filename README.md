@@ -17,7 +17,7 @@
     <h3>🌼Follow Me🌼</h3>   
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy4197@gmail.com)]
     <hr/>
-    <href="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy4197@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy4197@gmail.com"/>(mailto:jmy4197@gmail.com)
     <hr/>
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <hr/>
