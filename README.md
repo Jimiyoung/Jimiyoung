@@ -20,6 +20,8 @@
     <href="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy4197@gmail.com"/>
     <hr/>
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<hr/>
+    <https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)> (mailto:fomagran6@gmail.com)
 
   </div>
   <div>
