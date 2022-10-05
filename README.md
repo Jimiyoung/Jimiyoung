@@ -16,10 +16,16 @@
     <h3>🌼Follow Me🌼</h3>   
     <a href="mailto:jmy4197@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy4197@gmail.com"/></a>
   </div>
+  <hr/>
   <div>
-    <h3>🌹Spring Framwork Project🌹</h3>
+    <h3>🌹Spring Framwork Project-KZM 캠핑용품쇼핑몰🌹</h3>
     <h6>- 구동사이트</h6>
     <a href="http://49.142.157.251:9090/javagreenS_jmy/">http://49.142.157.251:9090/javagreenS_jmy/</a>
-    <h6>- 구동영상</h6>
+    <h6>- 구현 영상</h6>
+  </div>  
+  <div>
+    <h3>🌹JSP Project-어린이집사이트🌹</h3>
+    <h6>- 구동사이트</h6>
+    <hr/>
   </div>  
 </div>  
