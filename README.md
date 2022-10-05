@@ -18,7 +18,8 @@
   </div>
   <div>
     <h3>🌹Spring Framwork Project🌹</h3>
-    <h1>- 구동사이트</h1>
+    <h6>- 구동사이트</h6>
     <a href="http://49.142.157.251:9090/javagreenS_jmy/">http://49.142.157.251:9090/javagreenS_jmy/</a>
+    <h6>- 구동영상</h6>
   </div>  
 </div>  
