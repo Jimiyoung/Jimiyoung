@@ -24,8 +24,8 @@
     <h6>- 구현 영상</h6>
   </div>  
   <div>
-    <h3>🌹JSP Project-어린이집사이트🌹</h3>
+    <h3>🌻JSP Project-어린이집사이트🌻</h3>
     <h6>- 구동사이트</h6>
-    <hr/>
+    <br/>
   </div>  
 </div>  
