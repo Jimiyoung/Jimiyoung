@@ -2,6 +2,9 @@
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=Welcome&fontSize=60&fontAlignY=38" />
   </p>
+  <div>
+    <h2>Hi! I'm MiyoungJi</h2>
+  </div>  
   <div class="center">
     <h3>🌳Tech Stack🌳</h3>   
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
