@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=Welcome&fontSize=60&fontAlignY=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=✨Welcome✨&fontSize=60&fontAlignY=38" />
   </p>
   <div>
     <h4>☆*: .｡. Hi!   I'm MiyoungJi .｡.:*☆</h4>
