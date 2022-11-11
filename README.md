@@ -23,7 +23,7 @@
   <div>
     <h3>🌹Spring Framwork Project-KZM 캠핑용품쇼핑몰🌹</h3>
     <a href="http://49.142.157.251:9090/javagreenS_jmy/">- 구동사이트 바로가기</a>
-    <a href="https://www.youtube.com/watch?v=tTyNT_N5Aws"><h6>- 구현 영상 바로가기(youtube)</h6></a>
+    <h6><a href="https://www.youtube.com/watch?v=tTyNT_N5Aws">- 구현 영상 바로가기(youtube)</a></h6>
   </div>  
   <div>
     <h3>🌻JSP Project-어린이집사이트🌻</h3>
