@@ -25,7 +25,7 @@
     <h6><a href="http://49.142.157.251:9090/javagreenS_jmy/">- 구동사이트 바로가기</a></h6>
     <h6><a href="https://www.youtube.com/watch?v=tTyNT_N5Aws">- 구현 영상 바로가기(youtube)</a></h6>
   </div>  
-  <--
+  <!--
   <div>
     <h3>🌻JSP Project-어린이집사이트🌻</h3>
     <h6>- 구동사이트</h6>
